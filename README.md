@@ -1,11 +1,5 @@
-open the
-curtains
+Hi! I'm Colton Federighi, a Computer Science student.
 
-lights on
+I know a decent bit of Python, and I'm trying to learn Java, HTML, CSS, and JavaScript.
 
-dont miss a moment
-of this
-
-experiment
-
-OH
+I like Project Moon's games, and I like to talk!
